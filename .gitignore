@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.venv/
+env/
+ENV/
+
+# Secrets - VERY IMPORTANT
+.env
+
+# Output files
+*.csv
+*.log
+
+# IDE / OS specific
+.idea/
+.vscode/
+*.DS_Store
